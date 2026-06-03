@@ -17,4 +17,4 @@ jobs:
         run: uname -a
 
       - name: List files
-      - run: ls -la
+        run: ls -la
